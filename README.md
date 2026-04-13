@@ -67,6 +67,14 @@ These overlays help readers find papers without replacing the backbone:
 
 This framing keeps the core survey centered on signal-native wearable foundation models while still giving space to decision support, language interfaces, and translational concerns.
 
+## Paper Index
+
+The uploaded workbook now has a companion paper index in this repository:
+
+- [Organized core and near-core paper list](./papers/core-and-near-core.md)
+
+This index groups the main survey pool by sensing substrate and shows each paper's survey tier, coupling type, and application orientation.
+
 ## Proposed Survey Outline
 
 ### 1. Introduction
@@ -161,9 +169,9 @@ The current materials suggest that translational signals remain thinner than the
 .
 ├── README.md
 ├── CONTRIBUTING.md
+├── papers/
 ├── data/
 ├── notes/
-├── papers/
 ├── figures/
 └── tables/
 ```
